@@ -4,7 +4,7 @@ Public, stable image files for Dubøka Records email signatures and other web us
 
 These files are hosted so Gmail and other mail clients can load the logo over HTTPS.
 
-- `email-signature/logo.png` — charcoal wordmark on a charcoal field (2×, display at 160 × 29 px)
+- `email-signature/logo.png` — charcoal rectangle with the cream Dubøka wordmark and padding so the strokes stay clear on a white email background (2×, display at 179 × 40 px)
 - `email-signature/logo-master.png` — same mark at source size
 
 Always written **Dubøka** (ø, never o or c). Est. 2018.
